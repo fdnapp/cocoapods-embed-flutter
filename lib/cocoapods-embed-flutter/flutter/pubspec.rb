@@ -3,6 +3,7 @@ require 'yaml'
 require 'open3'
 require 'concurrent'
 require 'cocoapods'
+require 'file_exists'
 
 module Flutter
   module Pub

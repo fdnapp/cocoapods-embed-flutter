@@ -1,4 +1,5 @@
 require 'cocoapods-embed-flutter/flutter'
+require 'file_exists'
 
 module Flutter
   module Pub

@@ -1,5 +1,6 @@
 require 'cocoapods-embed-flutter/gem_version'
 require 'cocoapods-embed-flutter/flutter'
+require 'file_exists'
 
 # The Pod modules name-spaces all the classes and methods
 # providing flutter specific functionality to podfile.
